@@ -1,2 +1,1 @@
 # Self-use tools
-copy
